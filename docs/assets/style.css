@@ -103,3 +103,15 @@ h6 {
 	  margin: 0 auto;
 	  display: block;
   }
+
+.btn-outline-light {
+    width: 250px;
+    display: inline-block;
+}
+
+.text-center {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
